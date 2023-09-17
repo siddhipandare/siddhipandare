@@ -1,6 +1,6 @@
 ### Hey 👋
-👯 I’m looking to collaborate on new projects.</br>
-📫 How to reach me: *pandaresiddhi@gmail.com*.</br>
+
+📫 How to reach me: *spandare3@gatech.edu*.</br>
 
 <!---🌱 I’m currently learning **Data Science, Web Programming with Python and Real-Time Programming with C++ for Microcontrollers**.</br>
 😄 Pronouns: she/her .</br>
